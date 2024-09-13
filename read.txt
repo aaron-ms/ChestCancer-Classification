@@ -1,0 +1,11 @@
+Step-1: 
+[package]Python-box for exception
+-> create logging functionality inside src/cnnClassifier/utils/__init__.py
+
+* We will make logging functionality separate and error functionality separate.
+
+# utility are those function that we will use most frequetnly inside component.
+{whenever we will load .yaml file it will return as a dictionary and to access dictionary key easily or using dot notation we will use `ConfigBox`}
+
+# from ensure import ensure_annotations
+{ensure_annotations make sure that we use correct datatype that declared in function}
